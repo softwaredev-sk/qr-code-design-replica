@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/develover-sk/qr-code-design-replica)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -56,7 +56,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-Furhter, I will be building a dynamic QR generator which can generate a QR code based upon user input and which can be captured to share to other users.
+Further, I will be building a dynamic QR generator which can generate a QR code based upon user input and which can be captured to share to other users.
 
 ### Useful resources
 
